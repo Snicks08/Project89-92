@@ -1,0 +1,24 @@
+#player1div
+{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    width: 600px;
+}
+
+#player2div
+{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    width: 600px;
+}
+
+#bodyid
+{
+    background-color: red;
+}
+
+#loginbutton
+{
+    background-color: darkblue;
+    color: white;
+}
